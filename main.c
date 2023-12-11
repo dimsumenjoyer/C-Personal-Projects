@@ -4,4 +4,5 @@
 int main()
 {
 	int number = sum(10, 10);
+	printf("Fuck my life.");
 }
