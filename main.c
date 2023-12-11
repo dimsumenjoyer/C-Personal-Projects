@@ -3,6 +3,10 @@
 
 int main()
 {
+    int ar[10];
+    for (int i = 0; i < 10; i++) {
+        ar[i] = i;
+    }
 	int number = sum(10, 10);
-	printf("Fuck my life.");
+	printf("Watch your language\n");
 }
